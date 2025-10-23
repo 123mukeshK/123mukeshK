@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/mukesh-kumar-7a25ba231](www.linkedin.com/in/mukesh-kumar-7a25ba231)
 
-- 💬 Ask me about **Html, CSS Javascript and React**
+- 💬 Ask me about **Html, CSS Javascript React.js java OOPs API**
 
 - 📫 How to reach me **developermukesh986@gmail.com**
 
