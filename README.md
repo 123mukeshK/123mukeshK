@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123mukeshk&label=Profile%20views&color=0e75b6&style=flat" alt="123mukeshk" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m a **Java Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/mukesh-kumar-7a25ba231](www.linkedin.com/in/mukesh-kumar-7a25ba231)
 - - 👨‍💻 My-Porfolio Here ! [https://mukesh-kumar-dev-eqg4o6e.gamma.site/](https://mukesh-kumar-dev-eqg4o6e.gamma.site/)
